@@ -1,5 +1,5 @@
 
-<a href='https://edersonlucas.vercel.app/' target="_blank"><img align="right" height="590em" src="https://raw.githubusercontent.com/edersonlucas/edersonlucas/8d81430e3d4820a95c4f938be9c9e8655818e0fa/Github%20Profile.svg"/></a>
+<a href='https://edersonlucas.vercel.app/' target='_blank'><img align="right" height="590em" src="https://raw.githubusercontent.com/edersonlucas/edersonlucas/8d81430e3d4820a95c4f938be9c9e8655818e0fa/Github%20Profile.svg"/></a>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ederson Lucas</h1>
   <h4>Developer In Progress | Trybe</h4>
 <p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonlucas&layout=compact&langs_count=7&theme=tokyonight"/> </p>
