@@ -1,6 +1,6 @@
 
 <a href='https://edersonlucas.vercel.app/' target='_blank'><img align="right" height="590em" src="https://raw.githubusercontent.com/edersonlucas/edersonlucas/8d81430e3d4820a95c4f938be9c9e8655818e0fa/Github%20Profile.svg"/></a>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, Sou Ederson Lucas</h1>
+<h1 align="left">Olá, Sou Ederson Lucas</h1>
   <h4>Estudante de Desenvolvimento de Software na Trybe</h4>
 <p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonlucas&layout=compact&langs_count=7&theme=tokyonight"/> </p>
   <p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edersonlucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </p>
