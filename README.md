@@ -2,7 +2,7 @@
   <h1 align="center">Olá, Sou Ederson Lucas
 <img height="30" src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif">
 </h1>
-<h3 align="center">Desenvolvedor Front-End</h3>
+<h3 align="center">Desenvolvedor Full-Stack</h3>
 
 <p align="center">Sou apaixonado por tecnologia e por aprender algo novo, atualmente estou estudando Back-End.</p>
 
