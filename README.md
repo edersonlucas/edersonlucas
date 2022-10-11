@@ -1,8 +1,8 @@
   <div> 
-  <h2 align="center">Olá, Sou Ederson Lucas
+  <h1 align="center">Olá, Sou Ederson Lucas
 <img height="30" src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif">
-</h2>
-<h4 align="center">Desenvolvedor Front-End</h4>
+</h1>
+<h3 align="center">Desenvolvedor Front-End</h3>
 
 <p align="center">Sou apaixonado por tecnologia e por aprender algo novo, atualmente estou estudando Back-End.</p>
 
