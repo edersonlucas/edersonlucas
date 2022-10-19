@@ -2,9 +2,11 @@
   <h1 align="center">Olá, Sou Ederson Lucas
 <img height="30" src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif">
 </h1>
-<h3 align="center">Desenvolvedor Full-Stack</h3>
+<h3 align="center">Desenvolvedor Web Full-Stack</h3>
 
-<p align="center">Sou apaixonado por tecnologia e por aprender algo novo, atualmente estou estudando Back-End.</p>
+<p align="center">Tenho 23 anos, sou apaixonado por tecnologia e por resolver problemas.
+Meu primeiro contato com programação aconteceu em 2016 quando criei um site sobre filmes e series utilizando o WordPress.
+Em 2021 comecei no curso de engenharia de software, visando migrar de carreira para essa área que tanto amo, atualmente estudo Desenvolvimento Web Full Stack na Trybe, estou sempre em busca de aprender coisas novas e escrever códigos mais compreensíveis</p>
 
 <br/>
 
@@ -48,6 +50,7 @@
    <img align="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
    <img align="center" alt="material-ui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
    <img align="center" alt="jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+   <img align="center" alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
     <a/>
  </div><br/>
 <br/>
