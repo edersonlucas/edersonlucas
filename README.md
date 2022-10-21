@@ -16,9 +16,7 @@ Em 2021 comecei no curso de engenharia de software, visando migrar de carreira p
 
 ### Contato
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:edersonlucas@outlook.com.br)
-[![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edersonlucas)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edersonlucas)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/oedersonlucas/)
 
  <a href="https://github.com/edersonlucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edersonlucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
