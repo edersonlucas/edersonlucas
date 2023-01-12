@@ -19,8 +19,8 @@ Em 2021 comecei no curso de engenharia de software, visando migrar de carreira p
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edersonlucas)
 
  <a href="https://github.com/edersonlucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edersonlucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonlucas&layout=compact&langs_count=7&theme=tokyonight"/><br/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edersonlucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edersonlucas&layout=compact&langs_count=7&theme=tokyonight"/><br/>
   <a/>
 
 
