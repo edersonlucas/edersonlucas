@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Desenvolvedor Web Full-Stack</h3>
 
-<p align="justify">Tenho 23 anos, sou apaixonado por tecnologia e por resolver problemas.
+<p align="justify">Tenho 24 anos, sou apaixonado por tecnologia e por resolver problemas.
 Meu primeiro contato com programação aconteceu em 2016 quando criei um site sobre filmes e series utilizando o WordPress.
 Em 2021 comecei no curso de engenharia de software, visando migrar de carreira para essa área que tanto amo, atualmente estudo Desenvolvimento Web Full Stack na Trybe, estou sempre em busca de aprender coisas novas e escrever códigos mais compreensíveis</p>
 
