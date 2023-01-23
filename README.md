@@ -49,6 +49,7 @@ Em 2021 comecei no curso de engenharia de software, visando migrar de carreira p
    <img align="center" alt="material-ui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
    <img align="center" alt="jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
    <img align="center" alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-F7C400.svg?style=for-the-badge&logo=python&logoColor=white">
     <a/>
  </div><br/>
 <br/>
