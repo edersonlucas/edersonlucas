@@ -18,13 +18,6 @@ Em 2021 comecei no curso de engenharia de software, visando migrar de carreira p
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:edersonlucas@outlook.com.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edersonlucas)
 
- <a href="https://github.com/edersonlucas">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edersonlucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edersonlucas&layout=compact&langs_count=7&theme=tokyonight"/><br/>
-  <a/>
-
-
-
   <br/>
 
 ### Tecnologias que estudo e utilizo em projetos
@@ -53,6 +46,11 @@ Em 2021 comecei no curso de engenharia de software, visando migrar de carreira p
     <a/>
  </div><br/>
 <br/>
+  
+   <a href="https://github.com/edersonlucas">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edersonlucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edersonlucas&layout=compact&langs_count=7&theme=tokyonight"/><br/>
+  <a/>
     
   
  
