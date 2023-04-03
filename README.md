@@ -1,24 +1,17 @@
-  <div> 
-  <h1 align="center">Olá, Sou Ederson Lucas
-<img height="30" src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif">
-</h1>
-<h3 align="center">Desenvolvedor Web Full-Stack</h3>
 
-<p align="justify">Tenho 24 anos, sou apaixonado por tecnologia e por resolver problemas.
-Meu primeiro contato com programação aconteceu em 2016 quando criei um site sobre filmes e series utilizando o WordPress.
-Em 2021 comecei no curso de engenharia de software, visando migrar de carreira para essa área que tanto amo, atualmente estudo Desenvolvimento Web Full Stack na Trybe, estou sempre em busca de aprender coisas novas e escrever códigos mais compreensíveis</p>
+ 
 
-<br/>
+## Olá 👋 Eu sou Ederson!
 
-> "No fim tudo dá certo, e se não deu certo é porque ainda não chegou ao fim. - Fernando Sabino"
+Desenvolvedor web full stack apaixonado por tecnologia e por resolver problemas. Formado pela Trybe, estou sempre em busca de novos desafios e oportunidades para aprender e crescer como profissional.
 
-<br/>
+Atualmente, estou contribuindo em projetos de código aberto, onde posso colocar em prática minhas habilidades de programação e colaborar com outros desenvolvedores da comunidade open source.
+
+Se você está procurando por um profissional dedicado, comprometido e que ama tecnologia, não hesite em entrar em contato comigo. Estou sempre pronto para novos desafios e oportunidades de aprendizado!
 
 ### Contato
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:edersonlucas@outlook.com.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edersonlucas)
-
-  <br/>
 
 ### Tecnologias que estudo e utilizo em projetos
 
